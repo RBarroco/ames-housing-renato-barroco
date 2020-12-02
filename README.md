@@ -1,3 +1,6 @@
+If the project is not visible on github, you can use this link:</br>
+https://nbviewer.jupyter.org/github/RBarroco/ames-housing-renato-barroco/blob/master/ames-housing-renato-barroco.ipynb
+
 ## Predicting house price with
 [Ames Housing dataset](https://www.kaggle.com/prevek18/ames-housing-dataset)
 
